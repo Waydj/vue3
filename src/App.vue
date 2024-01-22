@@ -1,4 +1,5 @@
 <script setup>
+import AccordionApp from "./components/AccordionApp.vue";
 import CalculatorApp from "./components/CalculatorApp.vue";
 import RandomGenerator from "./components/RandomGenerator.vue";
 import ToDoList from "./components/ToDoList.vue";
@@ -8,4 +9,5 @@ import ToDoList from "./components/ToDoList.vue";
   <ToDoList />
   <RandomGenerator />
   <CalculatorApp />
+  <AccordionApp />
 </template>
