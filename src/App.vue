@@ -2,6 +2,7 @@
 import AccordionApp from "./components/AccordionApp.vue";
 import CalculatorApp from "./components/CalculatorApp.vue";
 import FormValidation from "./components/FormValidation.vue";
+import PasswordGenerator from "./components/PasswordGenerator.vue";
 import ProgressSteps from "./components/ProgressSteps.vue";
 import RandomGenerator from "./components/RandomGenerator.vue";
 import ToDoList from "./components/ToDoList.vue";
@@ -14,4 +15,5 @@ import ToDoList from "./components/ToDoList.vue";
   <AccordionApp />
   <FormValidation />
   <ProgressSteps />
+  <PasswordGenerator />
 </template>
