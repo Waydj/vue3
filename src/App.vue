@@ -6,6 +6,7 @@ import PasswordGenerator from "./components/PasswordGenerator.vue";
 import ProgressSteps from "./components/ProgressSteps.vue";
 import RandomGenerator from "./components/RandomGenerator.vue";
 import ToDoList from "./components/ToDoList.vue";
+import SlipAdvice from "./components/SlipAdvice.vue";
 </script>
 
 <template>
@@ -16,4 +17,5 @@ import ToDoList from "./components/ToDoList.vue";
   <FormValidation />
   <ProgressSteps />
   <PasswordGenerator />
+  <SlipAdvice />
 </template>
