@@ -7,6 +7,7 @@ import ProgressSteps from "./components/ProgressSteps.vue";
 import RandomGenerator from "./components/RandomGenerator.vue";
 import ToDoList from "./components/ToDoList.vue";
 import SlipAdvice from "./components/SlipAdvice.vue";
+import GitUsers from "./components/GitUsers.vue";
 </script>
 
 <template>
@@ -18,4 +19,5 @@ import SlipAdvice from "./components/SlipAdvice.vue";
   <ProgressSteps />
   <PasswordGenerator />
   <SlipAdvice />
+  <GitUsers />
 </template>
