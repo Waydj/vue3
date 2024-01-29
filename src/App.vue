@@ -8,6 +8,7 @@ import RandomGenerator from "./components/RandomGenerator.vue";
 import ToDoList from "./components/ToDoList.vue";
 import SlipAdvice from "./components/SlipAdvice.vue";
 import GitUsers from "./components/GitUsers.vue";
+import WikiClone from "./components/WikiClone.vue";
 </script>
 
 <template>
@@ -20,4 +21,5 @@ import GitUsers from "./components/GitUsers.vue";
   <PasswordGenerator />
   <SlipAdvice />
   <GitUsers />
+  <WikiClone />
 </template>
